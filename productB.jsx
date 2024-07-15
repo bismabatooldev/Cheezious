@@ -1,0 +1,51 @@
+
+export const prodB = [
+    {
+        "id": 1,
+        "title": "Cheezy Sticks",
+        "description": "Freshly Baked Bread Filled With The Yummiest Cheese Blend To Satisfy Your Cravings.",
+        "thumbnail": "/Images/starter-1.png",
+        "price": 590,
+        "quantity": 0,
+    },
+    {
+        "id": 2,
+        "title": "Oven Baked Wings",
+        "description": "Fresh Oven Baked Wings Served With Dip Sauce",
+        "thumbnail": "/Images/starter-2.png",
+        "price": 550,
+        "quantity": 0,
+    },
+    {
+        "id": 3,
+        "title": "Flaming Wings",
+        "description": "Fresh Oven Baked Wings Tossed In Hot Peri Peri Sauce And Served With Dip Sauce",
+        "thumbnail": "/Images/starter-3.png",
+        "price": 600,
+        "quantity": 0,
+    },
+    {
+        "id": 4,
+        "title": "Calzone Chunks",
+        "description": "4 Pcs Stuffed Calzone Chunks Served with Sauce & Fries",
+        "thumbnail": "/Images/starter-4.png",
+        "price": 1050,
+        "quantity": 0,
+    },
+    {
+        "id": 5,
+        "title": "Arabic Rolls",
+        "description": "4 Pcs Arabic Rolls Stuffed with Yummiest Mix Served with Sauce",
+        "thumbnail": "/Images/starter-5.png",
+        "price": 650,
+        "quantity": 0,
+    },
+    {
+        "id": 6,
+        "title": "Behari Rolls",
+        "description": "4 Pcs Behari Rolls Stuffed with Yummiest Mix Served with Sauce",
+        "thumbnail": "/Images/starter-6.png",
+        "price": 650,
+        "quantity": 0,
+    },
+]
